@@ -6,10 +6,9 @@
 - 📫 How to reach me **eligcan@hotmail.com**
 
 <p align="left">Connect with me:</p>
-<p align="left">
-<a href="https://codepen.io/gabrielnarcizo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gabrielnarcizo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eli-gabriel-narcizo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eli-gabriel-narcizo" height="30" width="40" /></a>
-</p>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/GabrielNarcizo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/eli-gabriel-narcizo/)
 
 <p align="left">Languages and Tools:</p>
 
