@@ -20,8 +20,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <br />
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielnarcizo&show_icons=true&theme=dark&locale=en" alt="gabrielnarcizo" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielnarcizo&show_icons=true&theme=dark&locale=en" alt="gabrielnarcizo" /></p><br />
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielnarcizo&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielnarcizo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielnarcizo&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielnarcizo" /></p>
 
 
