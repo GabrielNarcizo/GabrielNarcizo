@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielnarcizo&label=Profile%20views&color=19b40e&style=flat-square" alt="gabrielnarcizo" /> </p>
 
-- 📫 How to reach me **eligcan@hotmail.com**
 
 <p align="left">Connect with me:</p>
 
@@ -20,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
+<br />
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielnarcizo&show_icons=true&theme=dark&locale=en" alt="gabrielnarcizo" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielnarcizo&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielnarcizo" /></p>
