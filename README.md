@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eli Gabriel!</h1>
-<h3 align="left">I'm a passionate full stack developer student from Rio de Janeiro - Brazil. I'm 25 years old.</h3>
+<h3 align="left">I'm a full stack developer from Rio de Janeiro - Brazil. I'm 29 years old.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielnarcizo&label=Profile%20views&color=19b40e&style=flat-square" alt="gabrielnarcizo" /> </p>
 
